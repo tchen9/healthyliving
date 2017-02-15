@@ -1,5 +1,6 @@
 /*======================================
-  Bryan Chan
+  Team Healthy Living
+  Bryan Chan, Tina Chen
   APCS2 p5
   HW06 -- Step 1: Split, Step 2: ?, Step 3: Sorted!
   2017-02-13

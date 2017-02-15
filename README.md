@@ -1,1 +1,3 @@
 # healthyliving
+# Link to published google doc:  https://docs.google.com/document/d/1V-qwr7Wj9PZ6hB2Bu0kHl9yw40fpaTImifxJLoeFHwc/pub
+# The runtime is linear. We classified the runtime by the number of diversions and merges the data set did. The sum of the two equaled to roughly the same as the number of elements in the list. Also, we thought that since merge in linear, the code couldn't have a runtime of less that linear.
