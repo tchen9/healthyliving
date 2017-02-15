@@ -32,7 +32,7 @@
   n=3000    time: 754101ns
 
   ANALYSIS:
-  <The runtime is linear. We classified the runtime by the number of diversions and merges the data set did. The sum of the two equaled to roughly the same as the number of elements in the list. Also, we thought that since merge in linear, the code couldn't have a runtime of less that linear.>
+  <The runtime is linear. We classified the runtime by the number of diversions and merges the data set did. The sum of the two equaled to roughly the same as the number of elements in the list. Also, we thought that since merge is linear, the code couldn't have a runtime of less that linear.>
   ======================================*/
 
 public class MergeSortTester 
