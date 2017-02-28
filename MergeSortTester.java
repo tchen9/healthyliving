@@ -44,7 +44,7 @@ public class MergeSortTester
      ******************************/
     public static void main( String[] args ) 
     {
-	int n = 3000; //number of elements
+	int n = 10000; //number of elements
 	int batchsize = 1000; //number of times method is ran
 	int sumofTime = 0;
 
